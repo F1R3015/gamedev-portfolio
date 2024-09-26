@@ -77,7 +77,7 @@ export default [
     </div>
     
     <div class="paragraph center">
-            <a href="https://jujojidev.itch.io/statemachine-plataformer" target="_blank"><img src="img/projects/itchioL.svg" alt="Itch.io logo" /></a>
+            <a href="https://jujojidev.itch.io/turn-based-prototype" target="_blank"><img src="img/projects/itchioL.svg" alt="Itch.io logo" /></a>
         </div>
     
     <div class="paragraph center">
